@@ -8,7 +8,7 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;* {
     height: 100vh;
     text-align: center;
     background: url(imagenes/fondo.jpg) no-repeat center center/cover;
@@ -56,5 +56,4 @@ ul {
 .fondo-b {
     background-color: rgb(105, 16, 50);
 }
-
-
+}
